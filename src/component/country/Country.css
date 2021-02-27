@@ -1,0 +1,13 @@
+.country{
+    height:400px;
+    width:300px;
+    -webkit-box-shadow: 1px 1px 10px #9E9E9E;
+    -moz-box-shadow: 1px 1px 10px #9E9E9E;
+    box-shadow: 1px 1px 10px #9E9E9E;
+    padding: 15px;
+    margin: 15px;
+    float: left;
+}
+.country img{
+    height: 50px;
+}
