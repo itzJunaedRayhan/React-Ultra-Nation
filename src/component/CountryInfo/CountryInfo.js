@@ -15,5 +15,4 @@ const CountryInfo = (props) => {
         </div>
     );
 };
-
 export default CountryInfo;
